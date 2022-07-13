@@ -1,6 +1,9 @@
 random-symmetric-crypto
 =======================
 
+https://stackoverflow.com/questions/10007147/getting-a-illegalblocksizeexception-data-must-not-be-longer-than-256-bytes-when
+
+
 Provides a very simple library that uses public key crypto
 to encrypt any size data using a randomly generated symmetric key.
 
